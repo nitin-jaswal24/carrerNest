@@ -50,7 +50,7 @@ const Login = () => {
       <section className="authPage">
         <div className="container">
           <div className="header">
-            <img src="../../../public/images/logofinal.png" alt="logo" />
+            <img src="/images/logofinal.png" alt="logo" />
             <h1>Login to your account</h1>
           </div>
           <form>
